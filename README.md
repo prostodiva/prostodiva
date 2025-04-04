@@ -1,5 +1,5 @@
 # 💫 About Me:
-Highly motivated Full-Stack Developer.<br> ──☆ Skills ☆── <br>Java; C++; JavaScript<br>Spring Boot(MVC, REST API, OpenAPI Documentation, Testing, Spring Data JPA (SQL),Spring Security(JWT))<br>REACT, Express, Node.js<br>POSTGRES, MongoDB<br>Git
+Highly motivated Full-Stack Developer.<br> 
 
 
 ## 🌐 Socials:
