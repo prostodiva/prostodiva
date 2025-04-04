@@ -1,5 +1,5 @@
 # 💫 About Me:
-Highly motivated Full-Stack Developer.<br> 
+Hello! My name is Margarita. I'm highly motivated Full-Stack Developer.<br> 
 
 
 ## 🌐 Socials:
