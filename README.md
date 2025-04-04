@@ -21,4 +21,4 @@ Hello! My name is Margarita. I'm highly motivated Full-Stack Developer.<br>
 ---
 [![](https://visitcount.itsvg.in/api?id=prostodiva&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![snake gif](https://github.com/prostodiva/prostodiva/blob/output/github-snake-dark.svg)
