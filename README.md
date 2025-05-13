@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! My name is Margarita. I'm highly motivated Full-Stack Developer.<br>Currently I'm working on a full-stack web application that implements a chat system with role-based access control.
+Hello! My name is Margarita. I'm highly motivated Full-Stack Developer.<br>Currently I'm working on a full-stack web application that implements a chat system with role-based access control. Visit kattsyna.com to check out my portfolio project.
 
 
 ## 🌐 Socials:
