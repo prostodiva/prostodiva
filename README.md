@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! My name is Margarita. I'm highly motivated Junior Full-Stack Developer based in Orange County, CA.<br>Currently I'm working on dev-briefs.com which I use for improving my skills, preparing for the interviews, and sharing my experience. Visit kattsyna.com to check out my other portfolio projects.
+Hello! My name is Margarita. I'm mid-level Full-Stack Software Engineer based in Orange County, CA.<br>Visit kattsyna.com to check out my other portfolio projects.
 
 
 ## 🌐 Socials:
